@@ -141,10 +141,12 @@ b {
   line-height: 1.5;
   background: #ff1949;
   color: #fff;
-  border-color: #ff1949;
   text-decoration: none;
   top: 293px;
   left: 146px;
+}
+.ch4:hover{
+  background-color: rgb(81, 81, 146);
 }
 
 .pic {
@@ -1075,7 +1077,7 @@ i.fa.fa-calendar::before {
 .btn4 {
   background: #ff1949;
   color: #fff;
-  border-color: #ff1949;
+  border-color: #fff;
   font-weight: 700;
   position: relative;
   text-transform: capitalize;
@@ -1086,11 +1088,14 @@ i.fa.fa-calendar::before {
   text-decoration: none;
   bottom: 50px;
 }
+.btn4:hover{
+  background-color: rgb(81, 81, 146);
+}
 
 .btn5 {
   background: #ff1949;
   color: #fff;
-  border-color: #ff1949;
+  border-color: #fff;
   font-weight: 700;
   position: relative;
   text-transform: capitalize;
@@ -1101,11 +1106,14 @@ i.fa.fa-calendar::before {
   text-decoration: none;
   bottom: 30px;
 }
+.btn5:hover{
+  background-color: rgb(81, 81, 146);
+}
 
 .btn6 {
   background: #ff1949;
   color: #fff;
-  border-color: #ff1949;
+  border-color: #fff;
   font-weight: 700;
   position: relative;
   text-transform: capitalize;
@@ -1116,7 +1124,9 @@ i.fa.fa-calendar::before {
   text-decoration: none;
   bottom: 10px;
 }
-
+.btn6:hover{
+  background-color: rgb(81, 81, 146);
+}
 
 .about1 {
   display: flex;
